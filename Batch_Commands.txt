@@ -1,0 +1,14 @@
+ECHO: Escreve na tela
+ECHO OFF: Oculta informações e o código executado pelo sistema.
+ECHO ON: Exibe informações e o código executado pelo sistema.
+ECHO.: Salta uma linha.
+@ECHO: Faz com que o prompt fique oculto durante toda execução.
+SET: Cria variável que pode ser referenciada através de %variável%.
+CLS: Limpa o console.
+IF e ELSE: Estruturas condicionais.
+GOTO: Avança até determinado trecho do lote.
+FOR: Estrutura de repetição.
+PAUSE: Faz uma pausa, e exibe: “Pressione qualquer tecla para continuar.”
+REM: Utilizado para fazer comentários.
+START: Inicializa um aplicativo ou programa.
+MOVE: Move (recorta) um arquivo de um diretório para outro.
