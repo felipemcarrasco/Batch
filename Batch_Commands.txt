@@ -12,6 +12,8 @@ PAUSE -> Pauses, and displays: "Press any key to continue."
 REM -> Used to make comments.
 START -> Starts an application or program.
 MOVE -> Move (cut) a file from one directory to another.
-RD -> Remove Folder
+RMDIR -> Remove Folder
+RMDIR /q /s -> Remove folder without confirmation and recursively
 DEL -> Remove file
-DEL / q -> Remove file without confirmation 
+DEL *.txt -> Remove all .txt files
+DEL /q /s -> Remove file without confirmation and recursively
