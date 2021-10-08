@@ -1,14 +1,17 @@
-ECHO: Escreve na tela
-ECHO OFF: Oculta informações e o código executado pelo sistema.
-ECHO ON: Exibe informações e o código executado pelo sistema.
-ECHO.: Salta uma linha.
-@ECHO: Faz com que o prompt fique oculto durante toda execução.
-SET: Cria variável que pode ser referenciada através de %variável%.
-CLS: Limpa o console.
-IF e ELSE: Estruturas condicionais.
-GOTO: Avança até determinado trecho do lote.
-FOR: Estrutura de repetição.
-PAUSE: Faz uma pausa, e exibe: “Pressione qualquer tecla para continuar.”
-REM: Utilizado para fazer comentários.
-START: Inicializa um aplicativo ou programa.
-MOVE: Move (recorta) um arquivo de um diretório para outro.
+ECHO -> Write on the screen
+ECHO ON -> Display information and code executed by system.
+ECHO OFF -> Hides information and code executed by system.
+ECO. -> Skip a line.
+@ECHO -> Makes the prompt hidden during the entire run.
+SET -> Create variable that can be referenced through %variable%.
+CLS -> Clears the console.
+IF and ELSE -> Conditional structures.
+GOTO -> Advances to a certain part of the code.
+FOR -> Repetition structure.
+PAUSE -> Pauses, and displays: "Press any key to continue."
+REM -> Used to make comments.
+START -> Starts an application or program.
+MOVE -> Move (cut) a file from one directory to another.
+RD -> Remove Folder
+DEL -> Remove file
+DEL / q -> Remove file without confirmation 
