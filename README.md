@@ -41,7 +41,7 @@
 
 **MD** -> Create a folder (md Tools).
 
-**CD** -> Browse a directory (cd Tools, cd .., cd\).
+**CD** -> Browse a directory (cd Tools, cd ..).
 
 **DIR** -> List files and folders (dir, dir /p, dir *.txt).
 
