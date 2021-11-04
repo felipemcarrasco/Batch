@@ -1,49 +1,49 @@
 # Batch Commands
 
-**ECHO** -> Write on the screen.
+**ECHO** -> Write on the screen
 
-**ECHO OFF** -> Hides information and code executed by the system.
+**ECHO OFF** -> Hides information and code executed by the system
 
-**ECHO ON** -> Displays information and code executed by the system.
+**ECHO ON** -> Displays information and code executed by the system
 
-**ECHO.** -> Skips a line.
+**ECHO.** -> Skips a line
 
-**@ECHO** -> Makes the prompt hidden during every run.
+**@ECHO** -> Makes the prompt hidden during every run
 
-**SET** -> Create variable that can be referenced through %variable%.
+**SET** -> Create variable that can be referenced through %variable%
 
-**CLS** -> Clean the console.
+**CLS** -> Clean the console
 
-**IF** and **ELSE** -> Conditional structures.
+**IF** and **ELSE** -> Conditional structures
 
-**GOTO** -> Advances to a certain part of the lot.
+**GOTO** -> Advances to a certain part of the lot
 
-**FOR** -> Repetition structure.
+**FOR** -> Repetition structure
 
 **PAUSE** -> Pauses, and displays: "Press any key to continue."
 
-**REM** -> Used to make comments.
+**REM** -> Used to make comments
 
-**START** -> Starts an application or program.
+**START** -> Starts an application or program
 
-**MOVE** ->  Moves (cuts) a file from one directory to another.
+**MOVE** ->  Moves (cuts) a file from one directory to another
 
-**COPY** -> Copy one or more files. (copy test.txt Temp)
+**COPY** -> Copy one or more files (copy test.txt Temp)
 
-**DEL** -> Delete one or more files.  
-  * **/p**    -> Prompts for confirmation before deleting the specified file.  
-  * **/f**    -> Forces deletion of read-only files.  
-  * **/s**    -> Deletes the specified files from the current directory and all subdirectories. Displays file names as they are deleted.  
-  * **/q**    -> Specifies silent mode. You will not be asked to confirm the deletion.  
+**DEL** -> Delete one or more files   
+  * **/p**    -> Prompts for confirmation before deleting the specified file  
+  * **/f**    -> Forces deletion of read-only files  
+  * **/s**    -> Deletes the specified files from the current directory and all subdirectories. Displays file names as they are deleted  
+  * **/q**    -> Specifies silent mode. You will not be asked to confirm the deletion  
   * ***.txt** -> Remove all .txt files
 
 **RMDIR** -> Remove a folder (rmdir Tools /q /s)
 
-**MD** -> Create a folder (md Tools).
+**MD** -> Create a folder (md Tools)
 
-**CD** -> Browse a directory (cd Tools, cd ..).
+**CD** -> Browse a directory (cd Tools, cd ..)
 
-**DIR** -> List files and folders (dir, dir /p, dir *.txt).
+**DIR** -> List files and folders (dir, dir /p, dir *.txt)
 
 ## Others
 
