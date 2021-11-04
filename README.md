@@ -29,6 +29,7 @@
 **MOVE** ->  Moves (cuts) a file from one directory to another.
 
 **DEL** -> Delete one or more files.
+
   **/p** -> Prompts for confirmation before deleting the specified file.
   **/f** -> Forces deletion of read-only files.
   **/s** -> Deletes the specified files from the current directory and all subdirectories. Displays file names as they are deleted.
