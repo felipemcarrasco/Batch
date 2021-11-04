@@ -4,36 +4,37 @@
 
 **ECHO OFF** -> Hides information and code executed by the system.
 
-ECHO ON -> Displays information and code executed by the system.
+**ECHO ON** -> Displays information and code executed by the system.
 
-ECHO. -> Skips a line.
+**ECHO.** -> Skips a line.
 
-@ECHO -> Makes the prompt hidden during every run.
-SET -> Create variable that can be referenced through %variable%.
+**@ECHO** -> Makes the prompt hidden during every run.
 
-CLS -> Clean the console.
+**SET** -> Create variable that can be referenced through %variable%.
 
-IF and ELSE -> Conditional structures.
+**CLS** -> Clean the console.
 
-GOTO -> Advances to a certain part of the lot.
+**IF** and **ELSE** -> Conditional structures.
 
-FOR -> Repetition structure.
+**GOTO** -> Advances to a certain part of the lot.
 
-PAUSE -> Pauses, and displays: "Press any key to continue."
+**FOR** -> Repetition structure.
 
-REM -> Used to make comments.
+**PAUSE** -> Pauses, and displays: "Press any key to continue."
 
-START -> Starts an application or program.
+**REM** -> Used to make comments.
 
-MOVE ->  Moves (cuts) a file from one directory to another.
+**START** -> Starts an application or program.
 
-DEL -> Delete one or more files.
-  /p -> Prompts for confirmation before deleting the specified file.
-  /f -> Forces deletion of read-only files.
-  /s -> Deletes the specified files from the current directory and all subdirectories. Displays file names as they are deleted.
-  /q -> Specifies silent mode. You will not be asked to confirm the deletion.
-  *.txt -> Remove all .txt files
+**MOVE** ->  Moves (cuts) a file from one directory to another.
 
-RMDIR -> Remove a folder.
+**DEL** -> Delete one or more files.
+  **/p** -> Prompts for confirmation before deleting the specified file.
+  **/f** -> Forces deletion of read-only files.
+  **/s** -> Deletes the specified files from the current directory and all subdirectories. Displays file names as they are deleted.
+  **/q** -> Specifies silent mode. You will not be asked to confirm the deletion.
+  ***.txt** -> Remove all .txt files
 
-MD -> Create a folder
+**RMDIR** -> Remove a folder.
+
+**MD** -> Create a folder
