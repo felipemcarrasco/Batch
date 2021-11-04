@@ -28,7 +28,7 @@
 
 **MOVE** ->  Moves (cuts) a file from one directory to another.
 
-**COPY** -> Copy one or more files. (cd\docume~1\%username%\documentos)
+**COPY** -> Copy one or more files. (copy test.txt Temp)
 
 **DEL** -> Delete one or more files.  
   * **/p**    -> Prompts for confirmation before deleting the specified file.  
