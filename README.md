@@ -28,6 +28,8 @@
 
 **MOVE** ->  Moves (cuts) a file from one directory to another.
 
+**COPY** -> Copy one or more files. (cd\docume~1\%username%\documentos)
+
 **DEL** -> Delete one or more files.  
   * **/p**    -> Prompts for confirmation before deleting the specified file.  
   * **/f**    -> Forces deletion of read-only files.  
@@ -35,6 +37,14 @@
   * **/q**    -> Specifies silent mode. You will not be asked to confirm the deletion.  
   * ***.txt** -> Remove all .txt files
 
-**RMDIR** -> Remove a folder.
+**RMDIR** -> Remove a folder (rmdir Tools /q /s)
 
-**MD** -> Create a folder
+**MD** -> Create a folder (md Tools).
+
+**CD** -> Browse a directory (cd Tools, cd .., cd\).
+
+**DIR** -> List files and folders (dir, dir /p, dir *.txt).
+
+## Others
+
+echo.> yourFile.txt -> Create a new empty file.
