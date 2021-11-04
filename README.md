@@ -47,4 +47,4 @@
 
 ## Others
 
-echo.> yourFile.txt -> Create a new empty file.
+Create a new empty file -> echo.> yourFile.txt
